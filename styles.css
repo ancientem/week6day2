@@ -1,0 +1,24 @@
+html, body, h1, h2, h3, p, ol, ul, li, a {
+    padding: 0;
+    border: 0;
+    margin: 0;
+  }
+body {
+    margin: 40px 100px;
+    background-color: lightgray;
+  }
+#row {
+    display: flex;
+    
+}
+#row p {
+    background-color: #454545;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+.lightBox {
+    background-color: #6e6e6e;
+}
+
