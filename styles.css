@@ -7,18 +7,29 @@ body {
     margin: 40px 100px;
     background-color: lightgray;
   }
-#row {
-    display: flex;
-    
+#boxContainers {
+  display: flex;
+  flex-wrap: wrap;
+  width: 500px;
 }
-#row p {
+p {
     background-color: #454545;
     width: 100px;
     height: 100px;
     margin: 10px;
+    
 }
 
 .lightBox {
     background-color: #6e6e6e;
 }
+
+
+
+
+
+
+
+
+
 
